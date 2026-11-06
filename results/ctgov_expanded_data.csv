@@ -1,0 +1,205 @@
+﻿nct,arm_id,arm,arm_n,serious_gi_affected,pancreatitis_affected
+NCT03951753,EG000,Placebo,28,1,1
+NCT03951753,EG001,Semaglutide 1 mg,44,0,0
+NCT03951753,EG002,Tirzepatide 15 mg,45,0,0
+NCT05478252,EG000,Semaglutide J,291,2,0
+NCT05478252,EG001,Semaglutide B,97,2,1
+NCT05813912,EG001,Insulin Icodec + Semaglutide: Treatment Period,94,0,0
+NCT03061214,EG000,Semaglutide 0.5 mg,287,1,0
+NCT03061214,EG001,Semaglutide 1.0 mg,290,2,1
+NCT03061214,EG002,Sitagliptin,290,1,0
+NCT03689374,EG000,Semaglutide,874,3,0
+NCT03689374,EG001,Insulin Aspart,864,5,2
+NCT01779362,EG000,Metformin Alone,65,0,0
+NCT01779362,EG001,Glargine Followed by Metformin,67,0,0
+NCT01779362,EG002,Placebo,67,0,0
+NCT01779362,EG003,Liraglutide + Metformin,68,1,0
+NCT03036800,EG000,Liraglutide Arm - Targeted Prescribing Pathway (LIRA 3mg + S,260,5,2
+NCT03036800,EG001,Standard Care Arm,132,1,0
+NCT03882970,EG000,5 mg Tirzepatide,358,5,0
+NCT03882970,EG001,10 mg Tirzepatide,360,6,1
+NCT03882970,EG002,15 mg Tirzepatide,359,0,0
+NCT03882970,EG003,Insulin Degludec,360,0,0
+NCT03861039,EG000,5 mg Tirzepatide,148,0,0
+NCT03861039,EG001,10 mg Tirzepatide,147,0,0
+NCT03861039,EG002,15 mg Tirzepatide,148,1,0
+NCT05564039,EG000,15 mg Tirzepatide or MTD,139,1,0
+NCT05564039,EG001,4.5 mg Dulaglutide or MTD,143,0,0
+NCT04184622,EG000,Placebo,643,5,2
+NCT04184622,EG001,5 mg Tirzepatide,630,4,3
+NCT04184622,EG002,10 mg Tirzepatide,636,8,0
+NCT04184622,EG003,15 mg Tirzepatide,630,6,1
+NCT04093752,EG000,5 mg Tirzepatide,230,4,0
+NCT04093752,EG001,10 mg Tirzepatide,228,5,0
+NCT04093752,EG002,15 mg Tirzepatide,229,0,0
+NCT04093752,EG003,Insulin Glargine,220,1,1
+NCT03940742,EG000,Control (Normal Hepatic Function),13,0,0
+NCT03940742,EG001,Mild Hepatic Impairment,6,0,0
+NCT03940742,EG002,Moderate Hepatic Impairment,6,0,0
+NCT03940742,EG003,Severe Hepatic Impairment,7,0,0
+NCT06640972,EG000,Investigational Drug,34,0,0
+NCT06640972,EG001,Placebo,34,0,0
+NCT05706506,EG000,5 mg Tirzepatide,152,0,0
+NCT05412004,EG000,Tirzepatide MTD_GPI1,114,1,0
+NCT05412004,EG001,Placebo_GPI1,120,0,0
+NCT05412004,EG002,Tirzepatide MTD_GPI2,119,2,1
+NCT05412004,EG003,Placebo_GPI2,114,0,0
+NCT04004988,EG000,5 mg Tirzepatide AI,42,0,0
+NCT04004988,EG001,5 mg Tirzepatide PFS,44,0,0
+NCT05048719,EG000,Placebo,55,0,0
+NCT05048719,EG001,3 mg LY3502970,51,0,0
+NCT05048719,EG002,12 mg LY3502970,56,0,0
+NCT05048719,EG003,24 mg LY3502970,47,4,1
+NCT05048719,EG004,36 mg LY3502970 - 1,27,0,0
+NCT05048719,EG005,36 mg LY3502970 - 2,34,0,0
+NCT05048719,EG006,45 mg LY3502970 - 1,31,0,0
+NCT05048719,EG007,45 mg LY3502970 - 2,32,0,0
+NCT05048719,EG008,1.5 mg Dulaglutide,50,0,0
+NCT00791479,EG000,0.1 Milligrams (mg) LY2189265,35,0,0
+NCT00791479,EG001,0.5 Milligrams (mg) LY2189265,34,0,0
+NCT00791479,EG002,1.0 Milligrams (mg) LY2189265,34,0,0
+NCT00791479,EG003,1.5 Milligrams (mg) LY2189265,29,2,0
+NCT00791479,EG004,3.0 Milligrams (mg) LY2189265,3,0,0
+NCT00791479,EG005,Placebo,32,1,1
+NCT01558271,EG000,LY2189265,280,2,0
+NCT01558271,EG001,Placebo/LY2189265,70,0,0
+NCT01558271,EG002,Liraglutide,137,0,0
+NCT01064687,EG000,0.75 mg LY2189265 (Baseline Through 26 Weeks),280,1,0
+NCT01064687,EG001,1.5 mg LY2189265 (Baseline Through 26 Weeks),279,1,0
+NCT01064687,EG002,Exenatide (Baseline Through 26 Weeks),278,2,1
+NCT01064687,EG003,Placebo (Baseline Through 26 Weeks),141,0,0
+NCT01064687,EG004,0.75 mg LY2189265 (Baseline Through 56 Weeks),280,3,0
+NCT01064687,EG005,1.5 mg LY2189265 (Baseline Through 56 Weeks),279,1,0
+NCT01064687,EG006,Exenatide (Baseline Through 56 Weeks),278,4,1
+NCT01064687,EG007,Placebo/0.75 mg LY2189265 (26 Weeks Through 56 Weeks),62,0,0
+NCT01064687,EG008,Placebo/1.5 mg LY2189265 (26 Weeks Through 56 Weeks),62,1,0
+NCT01191268,EG000,1.5 mg LY2189265,295,8,0
+NCT01191268,EG001,0.75 mg LY2189265,293,7,0
+NCT01191268,EG002,Insulin Glargine,296,1,0
+NCT01468181,EG000,LY2189265 + SU,131,1,0
+NCT01468181,EG001,LY2189265 + BG,61,1,0
+NCT01468181,EG002,LY2189265 + a-GI,65,0,0
+NCT01468181,EG003,LY2189265 + TZD,66,0,0
+NCT01468181,EG004,LY2189265 + Glinides,71,1,0
+NCT00577824,EG000,5mcg Exenatide BID,72,0,0
+NCT00577824,EG001,10mcg Exenatide BID,72,0,0
+NCT00577824,EG002,Placebo BID,35,2,0
+NCT00375492,EG000,Group A (Exenatide),96,1,0
+NCT00375492,EG001,Group B (Placebo),98,0,0
+NCT02119819,EG000,10 mg LY2944876,66,0,0
+NCT02119819,EG001,15 mg LY2944876,71,0,0
+NCT02119819,EG002,30 mg LY2944876,73,1,1
+NCT02119819,EG003,50 mg LY2944876,70,1,0
+NCT02119819,EG004,Exenatide Extended-release,69,0,0
+NCT02119819,EG005,Placebo,71,0,0
+NCT01652729,EG000,Experimental: Exenatide,181,2,0
+NCT01652729,EG001,Active Comparator: Sitagliptin,122,0,0
+NCT01652729,EG002,Placebo Comparator: Placebo,61,0,0
+NCT01104701,EG000,2 mg Exenatide Weekly,30,0,0
+NCT01104701,EG001,5 mg Exenatide Monthly,30,0,0
+NCT01104701,EG002,8 mg Exenatide Monthly,31,0,0
+NCT01104701,EG003,11 mg Exenatide Monthly,30,0,0
+NCT01297062,EG000,Exenatide,80,0,0
+NCT01297062,EG001,Placebo,84,0,0
+NCT01297062,EG002,Moxifloxacin,80,0,0
+NCT00976937,EG000,Lixisenatide,158,0,0
+NCT00976937,EG001,Sitagliptin,161,0,0
+NCT01798706,EG000,Lixisenatide,176,0,0
+NCT01798706,EG001,Placebo,174,2,1
+NCT05114590,EG000,iGlarLixi,123,0,0
+NCT00715624,EG000,Placebo,167,0,0
+NCT00715624,EG001,Lixisenatide,328,3,1
+NCT01973231,EG000,Liraglutide,202,3,0
+NCT01973231,EG001,Lixisenatide,202,0,0
+NCT00976391,EG000,Albiglutide 30 mg With Insulin Glargine,285,2,0
+NCT00976391,EG001,Preprandial Lispro Insulin With Insulin Glargine,281,2,0
+NCT01098539,EG000,Albiglutide 30 mg,249,4,2
+NCT01098539,EG001,Sitagliptin 100 mg,246,0,0
+NCT01128894,EG000,Albiglutide 50 mg,404,0,0
+NCT01128894,EG001,Liraglutide 1.8 mg,408,2,1
+NCT02284009,EG000,Placebo,17,0,0
+NCT02284009,EG001,Albiglutide,50,0,0
+NCT01098461,EG000,Placebo,53,0,0
+NCT01098461,EG001,Albiglutide 15 mg Weekly,52,0,0
+NCT01098461,EG002,Albiglutide 30 mg Weekly,54,0,0
+NCT01098461,EG003,Albiglutide 30 mg Every Other Week,53,0,0
+NCT02229227,EG000,Albiglutide + Insulin Glargine,400,2,1
+NCT02229227,EG001,Insulin Lispro + Insulin Glargine,413,2,0
+NCT00838916,EG000,Albiglutide 30 mg + Metformin +/- Sulfonylurea,504,7,1
+NCT00838916,EG001,Insulin Glargine 10 Units + Metformin +/- Sulfonylurea,241,5,0
+NCT00839527,EG000,Placebo + Metformin + Glimepiride,115,1,0
+NCT00839527,EG001,Pioglitazone + Metformin + Glimepiride,277,3,0
+NCT00839527,EG002,Albiglutide + Metformin + Glimepiride,271,8,3
+NCT03353350,EG000,Placebo,102,0,0
+NCT03353350,EG001,Efpeglenatide 2 mg,102,3,1
+NCT03353350,EG002,Efpeglenatide 4 mg,103,0,0
+NCT03353350,EG003,Efpeglenatide 6 mg,99,0,0
+NCT04426474,EG000,Placebo QD,17,0,0
+NCT04426474,EG001,3/6/12/21 mg LY3502970 QD,14,0,0
+NCT04426474,EG002,3/6/9 mg LY3502970 QD,9,0,0
+NCT04426474,EG003,3/6/12/15 mg LY3502970 QD,10,0,0
+NCT04426474,EG004,3/6/12/21/27 mg LY3502970 QD,9,0,0
+NCT04426474,EG005,3/6/9/21/36/45 mg LY3502970 QD,9,0,0
+NCT05931380,EG000,Placebo QD,60,1,0
+NCT05931380,EG001,6 mg Orforglipron QD,61,0,0
+NCT05931380,EG002,12 mg Orforglipron QD,57,0,0
+NCT05931380,EG003,36 mg Orforglipron QD,60,0,0
+NCT06186622,EG000,Cohort 1: 20 mg Simvastatin Alone (Day 1),30,0,0
+NCT06186622,EG001,Cohort 1: 0.25 mg Digoxin Alone (Day 2),30,0,0
+NCT06186622,EG002,Cohort 1: 20 mg Simvastatin + 600 mg Sodium Bicarbonate (Day,28,0,0
+NCT06186622,EG003,Cohort 1: 20 mg Rosuvastatin Alone (Day 8),28,0,0
+NCT06186622,EG004,Cohort 1: 1000 mg Acetaminophen Alone (Day 10),27,0,0
+NCT06186622,EG005,Cohort 1: 0.2 mg Midazolam Alone (Day 12),27,0,0
+NCT06186622,EG006,Cohort 1: Staggered 1 mg Orforglipron Capsule + 1000 mg Acet,27,0,0
+NCT06186622,EG007,Cohort 1: 1 mg Orforglipron Capsule QD (Day 15 to Day 27),27,0,0
+NCT06186622,EG008,Cohort 1: 3 mg Orforglipron Capsule QD (Day 28 to Day 41),26,0,0
+NCT06186622,EG009,Cohort 1: 6 mg Orforglipron Capsule QD (Day 42 to Day 55),26,0,0
+NCT06186622,EG010,Cohort 1: 12 mg Orforglipron Capsule QD (Day 56 to Day 69),26,0,0
+NCT06186622,EG011,Cohort 1: 24 mg Orforglipron Capsule QD (Day 70 to Day 83),26,0,0
+NCT06186622,EG012,Cohort 1: 36 mg Orforglipron Capsule QD (Day 84 to Day 97),26,0,0
+NCT06186622,EG013,Cohort 1: Simultaneous 36 mg Orforglipron Capsule + 20 mg Si,22,0,0
+NCT06186622,EG014,Cohort 1: Simultaneous 36 mg Orforglipron Capsule + 0.25 mg ,22,0,0
+NCT06186622,EG015,Cohort 1: 36 mg Orforglipron Capsule QD (Day 100 to Day 103),22,0,0
+NCT06186622,EG016,Cohort 1: Staggered 36 mg Orforglipron Capsule + 20 mg Simva,22,0,0
+NCT06186622,EG017,Cohort 1: Simultaneous 36 mg Orforglipron Capsule + 20 mg Ro,22,0,0
+NCT06186622,EG018,Cohort 1: 36 mg Orforglipron Capsule (Day 106),22,0,0
+NCT06186622,EG019,Cohort 1: Staggered 36 mg Orforglipron Capsule + 1000 mg Ace,22,0,0
+NCT06186622,EG020,Cohort 1: 36 mg Orforglipron Capsule (Day 108),22,0,0
+NCT06186622,EG021,Cohort 1: Simultaneous 36 mg Orforglipron Capsule + 0.2 mg M,21,0,0
+NCT06186622,EG022,Cohort 1: 36 mg Orforglipron Capsule (Day 110),22,0,0
+NCT06186622,EG023,Cohort 1: Simultaneous 20 mg Orforglipron Tablet + 20 mg Sim,22,0,0
+NCT06186622,EG024,Cohort 2: 20 mg Simvastatin Alone (Day 1),20,0,0
+NCT06186622,EG025,Cohort 2: 0.25 mg Digoxin Alone (Day 2),20,0,0
+NCT06186622,EG026,Cohort 2: Simultaneous 20 mg Simvastatin + 600 mg Sodium Bic,20,0,0
+NCT06186622,EG027,Cohort 2: 1 mg Orforglipron Capsule QD (Day 9 to Day 22),20,0,0
+NCT06186622,EG028,Cohort 2: 3 mg Orforglipron Capsule QD (Day 23 to Day 36),20,0,0
+NCT06186622,EG029,Cohort 2: 6 mg Orforglipron Capsule QD (Day 37 to Day 50),19,0,0
+NCT06186622,EG030,Cohort 2: 12 mg Orforglipron Capsule QD (Day 51 to Day 64),19,0,0
+NCT06186622,EG031,Cohort 2: 24 mg Orforglipron Capsule QD (Day 65 to Day 78),18,0,0
+NCT06186622,EG032,Cohort 2: 36 mg Orforglipron Capsule QD (Day 79 to Day 92),18,0,0
+NCT06186622,EG033,Cohort 2: Simultaneous 36 mg Orforglipron Capsule + 20 mg Si,16,0,0
+NCT06186622,EG034,Cohort 2: Simultaneous 36 mg Orforglipron Capsule + 0.25 mg ,16,0,0
+NCT06186622,EG035,Cohort 2: 36 mg Orforglipron Capsule QD (Day 95 to Day 98),16,0,0
+NCT06186622,EG036,Cohort 2: Staggered 36 mg Orforglipron Capsule + 20 mg Simva,16,0,0
+NCT06186622,EG037,Cohort 2: 36 mg Orforglipron Capsule (Day 100),16,0,0
+NCT06186622,EG038,Cohort 2: Simultaneous 20 mg Orforglipron Tablet + 20 mg Sim,16,0,0
+NCT04881760,EG000,Placebo,70,0,0
+NCT04881760,EG001,1 mg LY3437943,69,0,0
+NCT04881760,EG002,4 mg LY3437943 (2 mg),33,0,0
+NCT04881760,EG003,4 mg LY3437943,33,0,0
+NCT04881760,EG004,8 mg LY3437943 (2 mg),35,0,0
+NCT04881760,EG005,8 mg LY3437943 (4 mg),35,1,0
+NCT04881760,EG006,12 mg LY3437943 (2 mg),62,1,1
+NCT04667377,EG000,0.6 mg BI 456906 - Actual Maintenance Treatment,92,2,0
+NCT04667377,EG001,2.4 mg BI 456906 - Actual Maintenance Treatment,92,0,0
+NCT04667377,EG002,3.6 mg BI 456906 - Actual Maintenance Treatment,71,0,0
+NCT04667377,EG003,4.8 mg BI 456906 - Actual Maintenance Treatment,54,0,0
+NCT04667377,EG004,Placebo,77,0,0
+NCT04771273,EG000,Survodutide 2.4 mg - Actual Maintenance Treatment,93,1,0
+NCT04771273,EG001,Survodutide 4.8 mg - Actual Maintenance Treatment,69,0,0
+NCT04771273,EG002,Survodutide 6.0 mg - Actual Maintenance Treatment,52,0,0
+NCT04771273,EG003,Placebo - Actual Maintenance Treatment,79,1,0
+NCT06124807,EG000,Placebo,47,0,0
+NCT06124807,EG001,3/6 Milligrams (mg) Mazdutide,32,0,0
+NCT06124807,EG002,10 mg Mazdutide,47,0,0
+NCT06124807,EG003,16 mg Mazdutide,51,0,0
