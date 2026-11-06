@@ -1,0 +1,25 @@
+# Never publish
+.env
+*.pem
+*.key
+**/credentials*
+
+# Author-only working files (search dumps, screening sheets, ID lists)
+**/*_medline*
+**/*_abstracts*
+**/*_prescreen*
+**/*_screening*
+**/*_pmids*
+*_stdout.txt
+*_stderr.txt
+.DS_Store
+Thumbs.db
+.Rhistory
+.RData
+__pycache__/
+*.pyc
+
+# Local working notes (keep out of the public clone)
+*_REPORT.md
+*_worknotes.md
+_scratch/
